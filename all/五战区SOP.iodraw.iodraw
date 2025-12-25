@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="690" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-9" value="大模型客户识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="31" width="115" height="60" as="geometry" />
         </mxCell>
@@ -120,9 +123,6 @@
         </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-62" value="丢单/成单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="630" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
