@@ -51,6 +51,11 @@
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-29" value="拉AI专项群" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="351" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZrnkW4LCEJh6WAJK0QcF-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-31" value="是否测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="381" y="221" width="60" height="30" as="geometry" />
         </mxCell>
