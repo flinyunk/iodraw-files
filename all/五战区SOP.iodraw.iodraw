@@ -80,8 +80,8 @@
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-46" value="定期回访" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-48" value="定期回访" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="570" width="60" height="30" as="geometry" />
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-48" value="是否有卡点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="510" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
