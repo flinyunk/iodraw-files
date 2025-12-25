@@ -35,7 +35,7 @@
           <mxGeometry x="450" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-21" value="需求分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
