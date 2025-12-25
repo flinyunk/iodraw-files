@@ -13,8 +13,8 @@
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-11" value="存量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-13" value="需求分析&lt;div&gt;小二/二线/AI二线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
