@@ -16,9 +16,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-3" value="线索发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="30" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
