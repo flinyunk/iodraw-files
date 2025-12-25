@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="690" height="680" as="geometry" />
         </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-9" value="大模型客户识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
