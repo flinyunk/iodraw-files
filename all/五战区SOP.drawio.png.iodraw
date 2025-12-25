@@ -57,7 +57,7 @@
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-29" value="拉AI专项群" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="351" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZrnkW4LCEJh6WAJK0QcF-65">
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="560" as="targetPoint" />
             <mxPoint x="380" y="237" as="sourcePoint" />
@@ -124,14 +124,8 @@
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-62" value="丢单/成单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="630" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZrnkW4LCEJh6WAJK0QcF-65">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="560" as="targetPoint" />
-            <mxPoint x="380" y="237" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-65" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="335" width="60" height="30" as="geometry" />
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
