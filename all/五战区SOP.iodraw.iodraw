@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZrnkW4LCEJh6WAJK0QcF-1" target="ZrnkW4LCEJh6WAJK0QcF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-1" value="需求沟通&lt;div&gt;小二/二线/AI二线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-3" value="线索发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
