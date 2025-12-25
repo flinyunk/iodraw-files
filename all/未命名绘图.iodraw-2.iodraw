@@ -1,0 +1,28 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="CQ17zu5c3cKeIwteGgIV">
+    <mxGraphModel dx="1514" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nNTRn4d6FZQOaPOhIbQh-1" value="8vCPU16" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nNTRn4d6FZQOaPOhIbQh-2" value="官网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nNTRn4d6FZQOaPOhIbQh-3" value="推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nNTRn4d6FZQOaPOhIbQh-4" value="16vCPU32GiB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="410" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nNTRn4d6FZQOaPOhIbQh-5" value="8vCPU16" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="210" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nNTRn4d6FZQOaPOhIbQh-6" value="23Mbps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
