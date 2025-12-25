@@ -48,6 +48,9 @@
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-26" value="测试管理表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="351" y="293" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZrnkW4LCEJh6WAJK0QcF-29" target="ZrnkW4LCEJh6WAJK0QcF-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-29" value="拉AI专项群" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="351" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,6 +73,9 @@
         </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-37" value="测试跟进" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="300" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-39" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
