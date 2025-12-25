@@ -5,16 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-9" value="大模型客户识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZrnkW4LCEJh6WAJK0QcF-10" target="ZrnkW4LCEJh6WAJK0QcF-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="65" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZrnkW4LCEJh6WAJK0QcF-10" value="新客" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="ZrnkW4LCEJh6WAJK0QcF-11" value="存量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
