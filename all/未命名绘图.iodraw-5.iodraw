@@ -34,7 +34,10 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYy_XiHV7Q2FSjQSHxFa-8" target="MYy_XiHV7Q2FSjQSHxFa-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-8" value="拉AI测试群&lt;div&gt;上测试管理表&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYy_XiHV7Q2FSjQSHxFa-8" target="MYy_XiHV7Q2FSjQSHxFa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-8" value="拉AI测试群" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-10" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-14" value="测试是否有卡点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
