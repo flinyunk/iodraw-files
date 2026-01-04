@@ -23,7 +23,7 @@
           <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-4" value="商务引导客户企业认证" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-6" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="40" width="60" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-18" value="小二每日跟进回访" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYy_XiHV7Q2FSjQSHxFa-4" target="MYy_XiHV7Q2FSjQSHxFa-4">
           <mxGeometry relative="1" as="geometry" />
