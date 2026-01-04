@@ -102,7 +102,7 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-50" value="是否上门？区域经理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-51" value="是否需要上门？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
