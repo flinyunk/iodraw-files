@@ -52,7 +52,7 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-14" value="测试是否有卡点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-18" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-18" value="小二每日跟进回访" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
