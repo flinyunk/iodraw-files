@@ -126,8 +126,8 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-57" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-59" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="130" width="60" height="30" as="geometry" />
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-59" value="二线/AI二线需求沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="130" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
