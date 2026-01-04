@@ -114,8 +114,8 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-49" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="458" y="680" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-50" value="是否上门？区域经理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
