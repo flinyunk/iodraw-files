@@ -88,7 +88,7 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-32" value="商务是否有风险" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="398" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-38" value="卡点解决&lt;div&gt;SA/PDSA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="198" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
