@@ -46,8 +46,8 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-13" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-14" value="测试是否有卡点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
