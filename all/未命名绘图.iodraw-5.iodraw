@@ -49,14 +49,26 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-13" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="140" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYy_XiHV7Q2FSjQSHxFa-14" target="MYy_XiHV7Q2FSjQSHxFa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYy_XiHV7Q2FSjQSHxFa-14" target="MYy_XiHV7Q2FSjQSHxFa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-14" value="测试是否有卡点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-18" value="小二每日跟进回访" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYy_XiHV7Q2FSjQSHxFa-4" target="MYy_XiHV7Q2FSjQSHxFa-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-24" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MYy_XiHV7Q2FSjQSHxFa-26" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
