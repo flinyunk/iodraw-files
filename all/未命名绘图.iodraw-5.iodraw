@@ -19,6 +19,10 @@
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYy_XiHV7Q2FSjQSHxFa-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="170" />
+              <mxPoint x="540" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MYy_XiHV7Q2FSjQSHxFa-2" value="是否测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
