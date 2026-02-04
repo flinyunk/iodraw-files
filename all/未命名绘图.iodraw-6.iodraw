@@ -16,7 +16,7 @@
         <mxCell id="A6tIJXx5BnVOrUlo9fjN-2" value="文字与AI交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A6tIJXx5BnVOrUlo9fjN-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A6tIJXx5BnVOrUlo9fjN-4" value="人工电话承接" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A6tIJXx5BnVOrUlo9fjN-6" value="觉得文字交互慢，需要语音交互" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
