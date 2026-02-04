@@ -46,8 +46,8 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A6tIJXx5BnVOrUlo9fjN-22" value="觉得慢需要语音沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="120" height="30" as="geometry" />
+        <mxCell id="A6tIJXx5BnVOrUlo9fjN-22" value="觉得沟通慢需要语音沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
