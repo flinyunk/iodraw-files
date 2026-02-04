@@ -31,11 +31,6 @@
         <mxCell id="A6tIJXx5BnVOrUlo9fjN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A6tIJXx5BnVOrUlo9fjN-14" target="A6tIJXx5BnVOrUlo9fjN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A6tIJXx5BnVOrUlo9fjN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A6tIJXx5BnVOrUlo9fjN-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A6tIJXx5BnVOrUlo9fjN-14" value="AI与客户在H5页面交互（非企业微信直接对话，通过按钮跳转页面沟通）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
         </mxCell>
