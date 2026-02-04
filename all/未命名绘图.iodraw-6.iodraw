@@ -49,6 +49,9 @@
         <mxCell id="A6tIJXx5BnVOrUlo9fjN-22" value="觉得沟通慢需要语音沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="370" y="290" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="A6tIJXx5BnVOrUlo9fjN-23" value="保留历史沟通记忆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
