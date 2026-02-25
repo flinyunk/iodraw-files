@@ -54,7 +54,7 @@
         <mxCell id="dWb_Of2KkzRf0tpT7Hd8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.615;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dWb_Of2KkzRf0tpT7Hd8-12" target="dWb_Of2KkzRf0tpT7Hd8-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dWb_Of2KkzRf0tpT7Hd8-15" value="调用阿里云购买ECS API" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dWb_Of2KkzRf0tpT7Hd8-15" value="购买已经基于镜像配置好openclaw的服务器" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="255" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
