@@ -10,6 +10,12 @@
             <mxPoint x="830" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dWb_Of2KkzRf0tpT7Hd8-2" value="用户侧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dWb_Of2KkzRf0tpT7Hd8-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
