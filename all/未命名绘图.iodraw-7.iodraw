@@ -16,6 +16,9 @@
         <mxCell id="dWb_Of2KkzRf0tpT7Hd8-2" value="用户侧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dWb_Of2KkzRf0tpT7Hd8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dWb_Of2KkzRf0tpT7Hd8-3" target="dWb_Of2KkzRf0tpT7Hd8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dWb_Of2KkzRf0tpT7Hd8-3" value="公司" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="100" width="60" height="30" as="geometry" />
         </mxCell>
@@ -41,6 +44,9 @@
         </mxCell>
         <mxCell id="dWb_Of2KkzRf0tpT7Hd8-10" value="调用阿里云购买ECS API" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="255" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dWb_Of2KkzRf0tpT7Hd8-12" value="提前部署openclaw，配置好模型Key。并基于此制作自定义镜像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
