@@ -13,8 +13,14 @@
         <mxCell id="wrkcUvoc5tzbR1pCdScV-3" value="GA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wrkcUvoc5tzbR1pCdScV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wrkcUvoc5tzbR1pCdScV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wrkcUvoc5tzbR1pCdScV-4" target="wrkcUvoc5tzbR1pCdScV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrkcUvoc5tzbR1pCdScV-4" value="ECS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrkcUvoc5tzbR1pCdScV-5" value="RDS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
