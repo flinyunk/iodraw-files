@@ -13,6 +13,9 @@
         <mxCell id="xo47bYwLQgkPzIMDx-2S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo47bYwLQgkPzIMDx-2S-2" target="xo47bYwLQgkPzIMDx-2S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xo47bYwLQgkPzIMDx-2S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xo47bYwLQgkPzIMDx-2S-2" target="xo47bYwLQgkPzIMDx-2S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xo47bYwLQgkPzIMDx-2S-2" value="DNS解析&lt;div&gt;全球（不含中国内地）&lt;/div&gt;&lt;div&gt;仅中国内地&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
         </mxCell>
