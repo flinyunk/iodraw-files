@@ -57,9 +57,9 @@
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-6" value="全球" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J71Y6mqD4X6HrOCDzNpn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J71Y6mqD4X6HrOCDzNpn-8">
+        <mxCell id="J71Y6mqD4X6HrOCDzNpn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J71Y6mqD4X6HrOCDzNpn-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="710" as="targetPoint" />
+            <mxPoint x="390" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-8" value="内地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
