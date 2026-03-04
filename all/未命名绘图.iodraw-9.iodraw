@@ -8,10 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xo47bYwLQgkPzIMDx-2S-1" value="用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xo47bYwLQgkPzIMDx-2S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xo47bYwLQgkPzIMDx-2S-2" target="xo47bYwLQgkPzIMDx-2S-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xo47bYwLQgkPzIMDx-2S-2" value="DNS解析&lt;div&gt;全球（不含中国内地）&lt;/div&gt;&lt;div&gt;仅中国内地&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xo47bYwLQgkPzIMDx-2S-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
