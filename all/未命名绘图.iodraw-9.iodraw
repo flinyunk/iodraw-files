@@ -87,8 +87,8 @@
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-19" value="API" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="740" y="590" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J71Y6mqD4X6HrOCDzNpn-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="596" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="J71Y6mqD4X6HrOCDzNpn-20" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;span data-type=&quot;text&quot;&gt;servlet&lt;/span&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
