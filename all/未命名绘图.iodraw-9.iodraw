@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="J71Y6mqD4X6HrOCDzNpn-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="180" as="sourcePoint" />
+            <mxPoint x="90" y="780" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J71Y6mqD4X6HrOCDzNpn-4" target="J71Y6mqD4X6HrOCDzNpn-6">
@@ -49,25 +49,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-4" value="DNS解析&lt;div&gt;全球（不含中国内地）&lt;/div&gt;&lt;div&gt;仅中国内地&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J71Y6mqD4X6HrOCDzNpn-6" target="J71Y6mqD4X6HrOCDzNpn-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-6" value="全球" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="334" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J71Y6mqD4X6HrOCDzNpn-8" target="J71Y6mqD4X6HrOCDzNpn-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-8" value="内地&lt;div&gt;ECS部署Wordpress&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="334" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-9" value="RDS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="354" y="920" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-10" value="AEM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="584" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="554" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J71Y6mqD4X6HrOCDzNpn-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
