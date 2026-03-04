@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-21" value="国内AEM+FC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-24" value="失败返回500错误重试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="574" y="695" width="60" height="30" as="geometry" />
