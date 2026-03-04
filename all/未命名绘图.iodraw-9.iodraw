@@ -87,6 +87,9 @@
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-19" value="API" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="740" y="590" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="J71Y6mqD4X6HrOCDzNpn-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
