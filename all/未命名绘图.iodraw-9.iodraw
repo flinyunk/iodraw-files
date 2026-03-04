@@ -92,7 +92,7 @@
         <mxCell id="J71Y6mqD4X6HrOCDzNpn-17" value="数据同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="680" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J71Y6mqD4X6HrOCDzNpn-18" value="GA加速" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J71Y6mqD4X6HrOCDzNpn-18" value="CDN/GA加速" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
