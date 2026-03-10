@@ -124,8 +124,17 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-43" value="触发启动请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NJO31VB2WyrlWW6BDH8U-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.634;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-32" target="NJO31VB2WyrlWW6BDH8U-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.634;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-32" target="NJO31VB2WyrlWW6BDH8U-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="400" />
+              <mxPoint x="710" y="295" />
+              <mxPoint x="673" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
