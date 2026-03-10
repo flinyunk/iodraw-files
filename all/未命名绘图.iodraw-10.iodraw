@@ -16,7 +16,7 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-5" value="用户本地" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="615" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NJO31VB2WyrlWW6BDH8U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-6" target="NJO31VB2WyrlWW6BDH8U-8">
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeColor=#666666;fillColor=#f5f5f5;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-6" target="NJO31VB2WyrlWW6BDH8U-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJO31VB2WyrlWW6BDH8U-6" value="章鱼浏览器客户端/用户列表/一键启动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
