@@ -82,10 +82,10 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-31" value="发送操作指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NJO31VB2WyrlWW6BDH8U-32" value="Chromium内核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-32" value="Chromium内核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="675" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NJO31VB2WyrlWW6BDH8U-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-33" value="解码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="455" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
