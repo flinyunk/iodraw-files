@@ -100,6 +100,9 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-32" target="NJO31VB2WyrlWW6BDH8U-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-32" target="NJO31VB2WyrlWW6BDH8U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NJO31VB2WyrlWW6BDH8U-32" value="Chromium内核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="400" width="60" height="30" as="geometry" />
         </mxCell>
@@ -122,7 +125,7 @@
           <mxGeometry x="630" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NJO31VB2WyrlWW6BDH8U-43" value="触发启动请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="720" y="260" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
