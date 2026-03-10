@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NJO31VB2WyrlWW6BDH8U-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-46" value="绘制窗口显示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="615" y="235" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
