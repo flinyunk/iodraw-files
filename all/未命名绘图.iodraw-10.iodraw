@@ -115,6 +115,9 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-17" target="NJO31VB2WyrlWW6BDH8U-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-41" value="返回IP+端口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
