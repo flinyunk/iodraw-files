@@ -82,6 +82,9 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-28" value="解码获取画面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-31" value="发送操作指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
