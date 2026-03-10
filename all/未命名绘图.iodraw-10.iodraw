@@ -121,6 +121,9 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-42" value="捕获原始输入事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="390" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
