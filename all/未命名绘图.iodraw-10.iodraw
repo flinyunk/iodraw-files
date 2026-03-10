@@ -25,6 +25,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="NJO31VB2WyrlWW6BDH8U-6" target="NJO31VB2WyrlWW6BDH8U-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="696" y="360" />
+              <mxPoint x="720" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NJO31VB2WyrlWW6BDH8U-6" value="章鱼浏览器客户端/用户列表/一键启动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="170" width="205" height="20" as="geometry" />
         </mxCell>
@@ -85,7 +93,7 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-32" value="Chromium内核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="675" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NJO31VB2WyrlWW6BDH8U-33" value="解码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-33" value="解码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="455" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
