@@ -31,8 +31,8 @@
         <mxCell id="NJO31VB2WyrlWW6BDH8U-8" value="轻量服务器API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NJO31VB2WyrlWW6BDH8U-11" value="Createinstances" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="NJO31VB2WyrlWW6BDH8U-11" value="Createinstances" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
